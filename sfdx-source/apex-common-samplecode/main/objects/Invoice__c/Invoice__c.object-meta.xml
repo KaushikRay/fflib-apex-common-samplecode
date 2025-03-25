@@ -62,10 +62,5 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Invoices</pluralLabel>
-    <searchLayouts>
-        <customTabListAdditionalFields>InvoiceDate__c</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Account__c</customTabListAdditionalFields>
-        <customTabListAdditionalFields>Description__c</customTabListAdditionalFields>
-    </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
